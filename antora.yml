@@ -1,0 +1,5 @@
+name: omnigres
+version: ~
+title: Omnigres
+nav:
+- modules/ROOT/nav.adoc
