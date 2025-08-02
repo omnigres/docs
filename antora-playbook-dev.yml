@@ -7,7 +7,6 @@ content:
     branches: HEAD
   - url: ../omnigres
     start_paths: extensions/omni_regex/docs
-    branches: antora-docs
   - url: ../cli
     start_path: docs
 ui:
